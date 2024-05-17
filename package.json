@@ -1,0 +1,22 @@
+{
+  "name": "tehsimple-calculator",
+  "version": "1.0.0",
+  "description": "a simple calculator with typescript and javascript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tehminashoaib",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.21"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tehmina shoaib"
+  }
+}
